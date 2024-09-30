@@ -1,0 +1,1 @@
+print('dddd', 'ddddd')
